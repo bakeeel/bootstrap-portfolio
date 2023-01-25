@@ -1,0 +1,32 @@
+
+
+/* smart mobile and tabletes*/
+
+@media(max-width: 767px)
+
+{
+	.navbar-inverse .navbar-nav>li>a {
+		padding-bottom:10px;
+		padding-top: 10px;
+	}
+
+	.subscribe .form-control {
+		margin: 20px auto;
+	}
+	.navbar-fixed-bottom .navbar-collapse, 
+	.navbar-fixed-top .navbar-collapse{
+		max-height:none;
+	}
+
+	.table .price-pox p{
+		font-size: 23px;
+		margin: auto;
+	}
+.tatistic p {
+	font-size: 50px;
+}
+
+.div_center{
+	text-align: center;
+}
+}
